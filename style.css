@@ -1,0 +1,28 @@
+div.relative {
+    position: relative;
+    padding-bottom: 500px;
+    margin: auto; 
+    width: 100vw;
+    height: 200vh;
+    border: 3px solid #73AD21;
+    background-color: rgb(103, 58, 183);
+  } 
+  
+  div.absolute {
+    margin: auto;
+    width: 500px;
+    height: 150vh;
+    border: 3px solid #73AD21;
+    color: rgba(0,0,0,.87);
+    padding: 0 20px;
+    background-attachment: fixed;
+    background-color: whitesmoke;
+  }
+  #look {
+    display: block;
+    align-content: center;
+  }
+
+.feedback-form {
+  padding: 15px;
+}
